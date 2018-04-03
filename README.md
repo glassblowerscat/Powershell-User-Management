@@ -1,7 +1,7 @@
 # Powershell-User-Management
 **Modules, functions, and scripts for managing users with Active Directory and GAM for G Suite**
 
-##Dependencies
+## Dependencies
 
   - Active Directory admin credentials for PowerShell remoting
   - PowerShell remoting to the DC configured on client machine
