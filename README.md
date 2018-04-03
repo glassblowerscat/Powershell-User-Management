@@ -1,7 +1,8 @@
 # Powershell-User-Management
 **Modules, functions, and scripts for managing users with Active Directory and GAM for G Suite**
 
-##Dependencies:
+##Dependencies
+
   - Active Directory admin credentials for PowerShell remoting
   - PowerShell remoting to the DC configured on client machine
   - Google Apps Manager (GAM) installation with user/groups admin credential for your G Suite (Google Apps for Work) domain. GAM must be installed and authenticated on the DC, under the same account used for administering Active Directory.
