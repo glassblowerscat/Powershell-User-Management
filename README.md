@@ -1,4 +1,4 @@
-# Powershell-User-Management
+#Powershell and G Suite/GAM Administration Scripts 
 **Modules, functions, scripts, and working files for managing users with Active Directory and GAM for G Suite.** 
 
 **DO NOT USE IN YOUR OWN ENVIRONMENT WITHOUT SERIOUS MODIFICATION. Heavily oriented around my own AD and G Suite Domains and stored here only for version control, not for public consumption.**
