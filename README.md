@@ -1,4 +1,4 @@
-#Powershell and G Suite/GAM Administration Scripts
+# Powershell and G Suite/GAM Administration Scripts
  
 **Modules, functions, scripts, and working files for managing users with Active Directory and GAM for G Suite.** 
 
