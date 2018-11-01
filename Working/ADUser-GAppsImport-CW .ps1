@@ -49,7 +49,7 @@ assword(s){
                         $passwordNeverExpires = $true
                         }
                     Else {
-                        $defPassword = (ConvertTo-SecureString "Crosswinds2012" -AsPlainText -force)
+                        $defPassword = (ConvertTo-SecureString "PasswordGoesHere" -AsPlainText -force)
                         $changePassword = $true
                         $passwordNeverExpires = $false
                         }

@@ -49,7 +49,7 @@ foreach ($user in $using:users) {
                         $passwordNeverExpires = $true
                         }
                     Else {
-                        $defPassword = (ConvertTo-SecureString "lifeline1968" -AsPlainText -force)
+                        $defPassword = (ConvertTo-SecureString "PasswordGoesHere" -AsPlainText -force)
                         $changePassword = $true
                         $passwordNeverExpires = $false
                         }
